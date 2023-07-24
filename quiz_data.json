@@ -1,0 +1,30 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        { "text": "Paris", "value": "a" },
+        { "text": "London", "value": "b" },
+        { "text": "Berlin", "value": "c" }
+      ],
+      "answer": "a"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "options": [
+        { "text": "3", "value": "a" },
+        { "text": "4", "value": "b" },
+        { "text": "5", "value": "c" }
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        { "text": "Venus", "value": "a" },
+        { "text": "Mercury", "value": "b" },
+        { "text": "Mars", "value": "c" }
+      ],
+      "answer": "b"
+    }
+  ]
+  
